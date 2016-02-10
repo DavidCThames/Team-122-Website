@@ -70,9 +70,11 @@ div.card.body {
     margin-top:100px;
 }
 
-div.section.s2 {
+.s2 {
 	background:url(img/sample/big_slider5.jpg);
-	height:800px;
+	min-height:1000px;
+    background-size: cover;
+    
 }
 
 
