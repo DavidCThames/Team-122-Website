@@ -56,6 +56,11 @@ var eventContent = "\
 	<div class='title'><h2>Event Participation</h2></div>\
 	<div>\
 		<p>\
+            2015 - Rumble in the Roads<br>\
+            2015 - IROC<br>\
+            2015 - FIRST Championship<br>\
+            2015 - Greater DC Regional<br>\
+            2015 - Virginia Regional<br>\
 			2014 – Virginia Regional<br>\
 			2014 – North Carolina Regional<br>\
 			2013 – FIRST Championship<br>\
