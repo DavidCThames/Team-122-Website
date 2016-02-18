@@ -62,7 +62,7 @@ div.section.s1 {
     position:relative;
     max-width: 100%;
     min-height: 0px;
-/* the height of this bothers the heck out of me, can we make it vary so that everything fits nicely no matter the size of the window?*/
+
 }
 div.card.body {
     margin-left:auto;
@@ -86,7 +86,7 @@ div.card.achive, div.card.event {
 	margin:5%;
 	float:left;
     position:relative;
-	margin-top: calc(5% - 200px);
+	margin-top: calc(5% - 35px);
 }
 
 
