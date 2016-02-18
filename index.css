@@ -65,10 +65,7 @@ div.section.s1 {
 /* the height of this bothers the heck out of me, can we make it vary so that everything fits nicely no matter the size of the window?*/
 }
 div.card.body {
-	max-width:1200px;
-	width:calc(100% - 10px);
-	min-height:400px;
-	margin-left:auto;
+    margin-left:auto;
 	margin-right:auto;
 	position:relative;
 	top:-200px;
