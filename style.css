@@ -34,6 +34,7 @@ p {
 div.section {
 	width:100%;
     padding: 20px;
+    box-sizing:border-box;
 }
 div.card {
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,.16), 0 2px 5px 0 rgba(0,0,0,.23);	

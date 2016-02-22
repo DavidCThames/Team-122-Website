@@ -53,26 +53,22 @@ div.header h3:hover {
 	background-color:rgba(33,150,243, 0.50);
 }
 
-
-
-
 div.section.s1 {
 	background:url(img/White-Geometric-Triangle-Wallpaper-1.png);
-    max-height: inherit;
+    max-height: 550px;
     position:relative;
-    max-width: 100%;
-/* the height of this bothers the heck out of me, can we make it vary so that everything fits nicely no matter the size of the screen?*/
+
 }
 div.card.body {
-	max-width:1200px;
-	width:calc(100% - 10px);
-	min-height:400px;
-	margin-left:auto;
+    margin-left:auto;
 	margin-right:auto;
 	position:relative;
 	top:-200px;
 	letter-spacing: -0.01em;
     margin-top:100px;
+    width:calc(100% - 10px);
+    max-width:1200px;
+    padding:0px;
 }
 
 .s2 {
@@ -88,7 +84,7 @@ div.card.achive, div.card.event {
 	margin:5%;
 	float:left;
     position:relative;
-	margin-top: calc(5% - 200px);
+	margin-top: calc(5% - 35px);
 }
 
 
