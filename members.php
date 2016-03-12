@@ -45,7 +45,7 @@ if (isset($_GET['p']) && $_GET['p'] == "login") {
 
 		</div>
 	</div>
-	<img src="img/sample/big_slider1.jpg" alt="" class="header" />
+	<img src="images/5D3_0068.JPG" alt="" class="header" />
 
 	<div class="headerSpace"></div>
 

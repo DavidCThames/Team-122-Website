@@ -85,12 +85,16 @@ div.card.body {
 }
 
 .s2 {
-	background:url(img/sample/big_slider5.jpg);
+	background:url(img/sections/Achievements.jpg);
 	min-height:1000px;
     background-size: cover;
     
 }
-
+.s3 {
+	background:url(img/sections/Team.jpg);
+	min-height:1000px;
+	background-size:cover;
+}
 
 div.card.achive, div.card.event {
 	width:40%;
