@@ -31,17 +31,17 @@ div.header h1{
 	margin-bottom:10px;
 	font-size:30px;
 	font-weight:300;
+	padding-bottom: 38px;
 }
 div.header h2{
 	font-weight:400;
-}
-div.header h2{
 	margin-top:38px;
 	font-size:20px;
+	padding-bottom: 38px;
 }
 div.header h3 {
-	padding-left:20px;
-	padding-right:20px;
+	padding-left:1vw;
+	padding-right:1vw;
 	margin-top:0px;
 	padding-top:38px;
 	padding-bottom:38px;
@@ -51,6 +51,19 @@ div.header h3 {
 }
 div.header h3:hover {
 	background-color:rgba(33,150,243, 0.50);
+}
+@media screen and (max-width: 1030px) {
+	div.header h3 {
+		float:left !important;
+		padding-top: 10px;
+		padding-bottom:10px;
+	}
+	div.header h2 {
+		padding-right: calc(100vw - 500px)
+	}
+	div.header {
+		height: 165px;
+	}
 }
 
 div.section.s1 {
@@ -98,3 +111,6 @@ footer {
 	background-color:#607D8B
 	
 }
+
+
+
